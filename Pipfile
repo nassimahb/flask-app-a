@@ -1,0 +1,13 @@
+[dev-packages]
+pylint = "*" 
+pycodestyle = "*"
+autopep8 = "*"
+
+[packages]
+flask = "*"
+flask-sqlalchemy = "*"
+gunicorn = "*"
+heroku = "*"
+
+[requires]
+python_version = "3.10.5"
